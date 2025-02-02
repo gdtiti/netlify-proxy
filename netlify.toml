@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/nebius"
+  from = "/nebius/*"
   to = "https://api.studio.nebius.ai/:splat"
   status = 200
   force = true
