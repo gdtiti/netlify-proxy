@@ -1,0 +1,8 @@
+[build]
+  command = "CI= npm run build"
+
+[[redirects]]
+  from = "/nebius"
+  to = "https://api.studio.nebius.ai/:splat"
+  status = 200
+  force = true
